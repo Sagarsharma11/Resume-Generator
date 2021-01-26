@@ -13,3 +13,6 @@ Only use in full screen mode to get better results.
 Resume Generator work for helping Freshers who wants a simple Resume or CV.
 
 Skills graphics are not working.
+
+User download the project and move it into xampp 
+htdocs folder.
